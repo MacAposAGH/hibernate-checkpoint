@@ -16,5 +16,6 @@
 		<mapping class="pl.edu.agh.mwo.hibernate.School"/>
 		<mapping class="pl.edu.agh.mwo.hibernate.SchoolClass"/>
 		<mapping class="pl.edu.agh.mwo.hibernate.Student"/>
+        <mapping class="pl.edu.agh.mwo.hibernate.Teacher"/>
 	</session-factory>
 </hibernate-configuration>
